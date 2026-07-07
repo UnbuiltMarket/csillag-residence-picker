@@ -1,7 +1,7 @@
 [
   {
     "id": "NY 101",
-    "name": "Ny épület 1/1",
+    "name": "Ny épület 101",
     "building": "NY",
     "floor": 1,
     "rooms": 3,
@@ -19,7 +19,7 @@
   },
   {
     "id": "NY 102",
-    "name": "Ny épület 1/2",
+    "name": "Ny épület 102",
     "building": "NY",
     "floor": 1,
     "rooms": 3,
@@ -37,7 +37,7 @@
   },
   {
     "id": "NY 103",
-    "name": "Ny épület 1/3",
+    "name": "Ny épület 103",
     "building": "NY",
     "floor": 1,
     "rooms": 3,
@@ -55,7 +55,7 @@
   },
   {
     "id": "NY 201",
-    "name": "Ny épület 2/1",
+    "name": "Ny épület 201",
     "building": "NY",
     "floor": 2,
     "rooms": 3,
@@ -73,7 +73,7 @@
   },
   {
     "id": "NY 202",
-    "name": "Ny épület 2/2",
+    "name": "Ny épület 202",
     "building": "NY",
     "floor": 2,
     "rooms": 3,
@@ -91,7 +91,7 @@
   },
   {
     "id": "NY 301",
-    "name": "Ny épület 3/1",
+    "name": "Ny épület 301",
     "building": "NY",
     "floor": 3,
     "rooms": 4,
@@ -109,7 +109,7 @@
   },
   {
     "id": "NY 302",
-    "name": "Ny épület 3/2",
+    "name": "Ny épület 302",
     "building": "NY",
     "floor": 3,
     "rooms": 4,
@@ -127,7 +127,7 @@
   },
   {
     "id": "É 101",
-    "name": "É épület 1/1",
+    "name": "É épület 101",
     "building": "É",
     "floor": 1,
     "rooms": 3,
@@ -145,7 +145,7 @@
   },
   {
     "id": "É 102",
-    "name": "É épület 1/2",
+    "name": "É épület 102",
     "building": "É",
     "floor": 1,
     "rooms": 3,
@@ -163,7 +163,7 @@
   },
   {
     "id": "É 103",
-    "name": "É épület 1/3",
+    "name": "É épület 103",
     "building": "É",
     "floor": 1,
     "rooms": 3,
@@ -181,7 +181,7 @@
   },
   {
     "id": "É 201",
-    "name": "É épület 2/1",
+    "name": "É épület 201",
     "building": "É",
     "floor": 2,
     "rooms": 3,
@@ -199,7 +199,7 @@
   },
   {
     "id": "É 202",
-    "name": "É épület 2/2",
+    "name": "É épület 202",
     "building": "É",
     "floor": 2,
     "rooms": 3,
@@ -217,7 +217,7 @@
   },
   {
     "id": "É 301",
-    "name": "É épület 3/1",
+    "name": "É épület 301",
     "building": "É",
     "floor": 3,
     "rooms": 4,
@@ -235,7 +235,7 @@
   },
   {
     "id": "É 302",
-    "name": "É épület 3/2",
+    "name": "É épület 302",
     "building": "É",
     "floor": 3,
     "rooms": 4,
@@ -253,7 +253,7 @@
   },
   {
     "id": "K 101",
-    "name": "K épület 1/1",
+    "name": "K épület 101",
     "building": "K",
     "floor": 1,
     "rooms": 3,
@@ -271,7 +271,7 @@
   },
   {
     "id": "K 102",
-    "name": "K épület 1/2",
+    "name": "K épület 102",
     "building": "K",
     "floor": 1,
     "rooms": 3,
@@ -289,7 +289,7 @@
   },
   {
     "id": "K 103",
-    "name": "K épület 1/3",
+    "name": "K épület 103",
     "building": "K",
     "floor": 1,
     "rooms": 3,
@@ -307,7 +307,7 @@
   },
   {
     "id": "K 201",
-    "name": "K épület 2/1",
+    "name": "K épület 201",
     "building": "K",
     "floor": 2,
     "rooms": 3,
@@ -325,7 +325,7 @@
   },
   {
     "id": "K 202",
-    "name": "K épület 2/2",
+    "name": "K épület 202",
     "building": "K",
     "floor": 2,
     "rooms": 3,
@@ -343,7 +343,7 @@
   },
   {
     "id": "K 301",
-    "name": "K épület 3/1",
+    "name": "K épület 301",
     "building": "K",
     "floor": 3,
     "rooms": 4,
@@ -361,7 +361,7 @@
   },
   {
     "id": "K 302",
-    "name": "K épület 3/2",
+    "name": "K épület 302",
     "building": "K",
     "floor": 3,
     "rooms": 4,
@@ -379,7 +379,7 @@
   },
   {
     "id": "D 101",
-    "name": "D épület 1/1",
+    "name": "D épület 101",
     "building": "D",
     "floor": 1,
     "rooms": 3,
@@ -397,7 +397,7 @@
   },
   {
     "id": "D 102",
-    "name": "D épület 1/2",
+    "name": "D épület 102",
     "building": "D",
     "floor": 1,
     "rooms": 3,
@@ -415,7 +415,7 @@
   },
   {
     "id": "D 103",
-    "name": "D épület 1/3",
+    "name": "D épület 103",
     "building": "D",
     "floor": 1,
     "rooms": 3,
@@ -433,7 +433,7 @@
   },
   {
     "id": "D 201",
-    "name": "D épület 2/1",
+    "name": "D épület 201",
     "building": "D",
     "floor": 2,
     "rooms": 3,
@@ -451,7 +451,7 @@
   },
   {
     "id": "D 202",
-    "name": "D épület 2/2",
+    "name": "D épület 202",
     "building": "D",
     "floor": 2,
     "rooms": 3,
@@ -469,7 +469,7 @@
   },
   {
     "id": "D 301",
-    "name": "D épület 3/1",
+    "name": "D épület 301",
     "building": "D",
     "floor": 3,
     "rooms": 4,
@@ -487,7 +487,7 @@
   },
   {
     "id": "D 302",
-    "name": "D épület 3/2",
+    "name": "D épület 302",
     "building": "D",
     "floor": 3,
     "rooms": 4,
