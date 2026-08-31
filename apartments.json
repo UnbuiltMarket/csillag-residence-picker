@@ -1,506 +1,1380 @@
 [
   {
-    "id": "NY 101",
-    "name": "Ny épület 101",
-    "building": "NY",
-    "floor": 1,
-    "rooms": 3,
-    "area": 68,
-    "price": 62000000,
-    "status": "available",
-    "maskColor": "#ec1414",
-    "hrsz": "2060/2",
-    "areaInterior": "68 m²",
-    "areaTerrace": "25 m²",
-    "areaInteriorNum": 68,
-    "areaTerraceNum": 25,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY101.webp",
-    "priceFormatted": "62 000 000 Ft"
-  },
-  {
-    "id": "NY 102",
-    "name": "Ny épület 102",
-    "building": "NY",
-    "floor": 1,
-    "rooms": 3,
-    "area": 68,
-    "price": 62000000,
-    "status": "available",
-    "maskColor": "#f06f4c",
-    "hrsz": "2060/2",
-    "areaInterior": "68 m²",
-    "areaTerrace": "25 m²",
-    "areaInteriorNum": 68,
-    "areaTerraceNum": 25,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY102.webp",
-    "priceFormatted": "62 000 000 Ft"
-  },
-  {
-    "id": "NY 103",
-    "name": "Ny épület 103",
-    "building": "NY",
-    "floor": 1,
-    "rooms": 3,
-    "area": 68,
-    "price": 62000000,
-    "status": "available",
-    "maskColor": "#ec7014",
-    "hrsz": "2060/2",
-    "areaInterior": "68 m²",
-    "areaTerrace": "25 m²",
-    "areaInteriorNum": 68,
-    "areaTerraceNum": 25,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY103.webp",
-    "priceFormatted": "62 000 000 Ft"
-  },
-  {
-    "id": "NY 201",
-    "name": "Ny épület 201",
-    "building": "NY",
-    "floor": 2,
-    "rooms": 3,
-    "area": 71,
-    "price": 68000000,
-    "status": "available",
-    "maskColor": "#f0b64c",
-    "hrsz": "2060/2",
-    "areaInterior": "71 m²",
-    "areaTerrace": "14 m²",
-    "areaInteriorNum": 71,
-    "areaTerraceNum": 14,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY201.webp",
-    "priceFormatted": "68 000 000 Ft"
-  },
-  {
-    "id": "NY 202",
-    "name": "Ny épület 202",
-    "building": "NY",
-    "floor": 2,
-    "rooms": 3,
-    "area": 71,
-    "price": 68000000,
-    "status": "available",
-    "maskColor": "#eccd14",
-    "hrsz": "2060/2",
-    "areaInterior": "71 m²",
-    "areaTerrace": "14 m²",
-    "areaInteriorNum": 71,
-    "areaTerraceNum": 14,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY202.webp",
-    "priceFormatted": "68 000 000 Ft"
-  },
-  {
-    "id": "NY 301",
-    "name": "Ny épület 301",
-    "building": "NY",
-    "floor": 3,
-    "rooms": 4,
-    "area": 84,
-    "price": 79000000,
-    "status": "available",
-    "maskColor": "#e5f04c",
-    "hrsz": "2060/2",
-    "areaInterior": "84 m²",
-    "areaTerrace": "18 m²",
-    "areaInteriorNum": 84,
-    "areaTerraceNum": 18,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY301.webp",
-    "priceFormatted": "79 000 000 Ft"
-  },
-  {
-    "id": "NY 302",
-    "name": "Ny épület 302",
-    "building": "NY",
-    "floor": 3,
-    "rooms": 4,
-    "area": 84,
-    "price": 79000000,
-    "status": "available",
-    "maskColor": "#aeec14",
-    "hrsz": "2060/2",
-    "areaInterior": "84 m²",
-    "areaTerrace": "18 m²",
-    "areaInteriorNum": 84,
-    "areaTerraceNum": 18,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY302.webp",
-    "priceFormatted": "79 000 000 Ft"
-  },
-  {
     "id": "É 101",
     "name": "É épület 101",
     "building": "É",
     "floor": 1,
-    "rooms": 3,
-    "area": 68,
-    "price": 62000000,
-    "status": "available",
-    "maskColor": "#9ef04c",
     "hrsz": "2060/3",
-    "areaInterior": "68 m²",
-    "areaTerrace": "25 m²",
-    "areaInteriorNum": 68,
-    "areaTerraceNum": 25,
+    "status": "sold",
+    "maskColor": "#9ef04c",
+    "areaInteriorNum": 72.86,
+    "areaTerraceNum": 24.76,
+    "areaGardenNum": 84.0,
+    "areaInterior": "72,86 m²",
+    "areaTerrace": "24,76 m²",
+    "areaGarden": "84 m²",
+    "price": null,
+    "priceFormatted": null,
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/E101.webp",
-    "priceFormatted": "62 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "4,94 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "5,37 m²"
+      },
+      {
+        "name": "WC",
+        "area": "1,62 m²"
+      },
+      {
+        "name": "Konyha",
+        "area": "5,48 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "20,03 m²"
+      },
+      {
+        "name": "Szoba 1",
+        "area": "12,29 m²"
+      },
+      {
+        "name": "Szoba 2",
+        "area": "12,01 m²"
+      },
+      {
+        "name": "Szoba 3",
+        "area": "9,61 m²"
+      }
+    ],
+    "areaTotal": 72.86,
+    "storage": false
   },
   {
     "id": "É 102",
     "name": "É épület 102",
     "building": "É",
     "floor": 1,
-    "rooms": 3,
-    "area": 68,
-    "price": 62000000,
+    "hrsz": "2060/3",
     "status": "available",
     "maskColor": "#50ec14",
-    "hrsz": "2060/3",
-    "areaInterior": "68 m²",
-    "areaTerrace": "25 m²",
-    "areaInteriorNum": 68,
-    "areaTerraceNum": 25,
+    "areaInteriorNum": 51.66,
+    "areaTerraceNum": 26.74,
+    "areaGardenNum": 67.0,
+    "areaInterior": "51,66 m²",
+    "areaTerrace": "26,74 m²",
+    "areaGarden": "67 m²",
+    "price": 69900000.0,
+    "priceFormatted": "69 900 000 Ft",
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/E102.webp",
-    "priceFormatted": "62 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "4,99 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "12,56 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "18,26 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "12,04 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "3,49 m²"
+      }
+    ],
+    "areaTotal": 51.66,
+    "storage": false
   },
   {
     "id": "É 103",
     "name": "É épület 103",
     "building": "É",
     "floor": 1,
-    "rooms": 3,
-    "area": 68,
-    "price": 62000000,
+    "hrsz": "2060/3",
     "status": "available",
     "maskColor": "#59f04c",
-    "hrsz": "2060/3",
-    "areaInterior": "68 m²",
-    "areaTerrace": "25 m²",
-    "areaInteriorNum": 68,
-    "areaTerraceNum": 25,
+    "areaInteriorNum": 63.18,
+    "areaTerraceNum": 21.18,
+    "areaGardenNum": 141.0,
+    "areaInterior": "63,18 m²",
+    "areaTerrace": "21,18 m²",
+    "areaGarden": "141 m²",
+    "price": 79900000.0,
+    "priceFormatted": "79 900 000 Ft",
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/E103.webp",
-    "priceFormatted": "62 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "5,17 m²"
+      },
+      {
+        "name": "WC",
+        "area": "1,75 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "3,64 m²"
+      },
+      {
+        "name": "Szoba 1",
+        "area": "14,82 m²"
+      },
+      {
+        "name": "Szoba 2",
+        "area": "9,54 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "14,23 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "10,44 m²"
+      }
+    ],
+    "areaTotal": 63.18,
+    "storage": false
   },
   {
     "id": "É 201",
     "name": "É épület 201",
     "building": "É",
     "floor": 2,
-    "rooms": 3,
-    "area": 71,
-    "price": 68000000,
+    "hrsz": "2060/3",
     "status": "available",
     "maskColor": "#14ec31",
-    "hrsz": "2060/3",
-    "areaInterior": "71 m²",
-    "areaTerrace": "14 m²",
-    "areaInteriorNum": 71,
-    "areaTerraceNum": 14,
+    "areaInteriorNum": 51.03,
+    "areaTerraceNum": 17.82,
+    "areaGardenNum": null,
+    "areaInterior": "51,03 m²",
+    "areaTerrace": "17,82 m²",
+    "areaGarden": null,
+    "price": 64900000.0,
+    "priceFormatted": "64 900 000 Ft",
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/E201.webp",
-    "priceFormatted": "68 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "2,90 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "8,53 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "20,30 m²"
+      },
+      {
+        "name": "Tároló (Szoba)",
+        "area": "12,34 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "5,70 m²"
+      }
+    ],
+    "areaTotal": 51.03,
+    "storage": false
   },
   {
     "id": "É 202",
     "name": "É épület 202",
     "building": "É",
     "floor": 2,
-    "rooms": 3,
-    "area": 71,
-    "price": 68000000,
-    "status": "available",
-    "maskColor": "#4cf087",
     "hrsz": "2060/3",
-    "areaInterior": "71 m²",
-    "areaTerrace": "14 m²",
-    "areaInteriorNum": 71,
-    "areaTerraceNum": 14,
+    "status": "sold",
+    "maskColor": "#4cf087",
+    "areaInteriorNum": 54.18,
+    "areaTerraceNum": 16.57,
+    "areaGardenNum": null,
+    "areaInterior": "54,18 m²",
+    "areaTerrace": "16,57 m²",
+    "areaGarden": null,
+    "price": null,
+    "priceFormatted": null,
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/E202.webp",
-    "priceFormatted": "68 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "6,22 m²"
+      },
+      {
+        "name": "Tároló (Szoba)",
+        "area": "7,91 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "4,42 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "10,07 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "6,42 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "18,29 m²"
+      }
+    ],
+    "areaTotal": 54.18,
+    "storage": false
+  },
+  {
+    "id": "É 203",
+    "name": "É épület 203",
+    "building": "É",
+    "floor": 2,
+    "hrsz": "2060/3",
+    "status": "available",
+    "maskColor": "#42c3fa",
+    "areaInteriorNum": 36.41,
+    "areaTerraceNum": 17.86,
+    "areaGardenNum": null,
+    "areaInterior": "36,41 m²",
+    "areaTerrace": "17,86 m²",
+    "areaGarden": null,
+    "price": 51900000.0,
+    "priceFormatted": "51 900 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/E203.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "3,75 m²"
+      },
+      {
+        "name": "Konyha",
+        "area": "2,10 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "3,49 m²"
+      },
+      {
+        "name": "Tároló (Szoba)",
+        "area": "8,34 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "18,47 m²"
+      }
+    ],
+    "areaTotal": 36.41,
+    "storage": false
   },
   {
     "id": "É 301",
     "name": "É épület 301",
     "building": "É",
     "floor": 3,
-    "rooms": 4,
-    "area": 84,
-    "price": 79000000,
+    "hrsz": "2060/3",
     "status": "available",
     "maskColor": "#14ec8f",
-    "hrsz": "2060/3",
-    "areaInterior": "84 m²",
-    "areaTerrace": "18 m²",
-    "areaInteriorNum": 84,
-    "areaTerraceNum": 18,
+    "areaInteriorNum": 32.31,
+    "areaTerraceNum": 18.12,
+    "areaGardenNum": null,
+    "areaInterior": "32,31 m²",
+    "areaTerrace": "18,12 m²",
+    "areaGarden": null,
+    "price": 54900000.0,
+    "priceFormatted": "54 900 000 Ft",
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/E301.webp",
-    "priceFormatted": "79 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Konyha",
+        "area": "1,80 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "16,32 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "9,46 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "4,81 m²"
+      }
+    ],
+    "areaTotal": 32.31,
+    "storage": false
   },
   {
     "id": "É 302",
     "name": "É épület 302",
     "building": "É",
     "floor": 3,
-    "rooms": 4,
-    "area": 84,
-    "price": 79000000,
+    "hrsz": "2060/3",
     "status": "available",
     "maskColor": "#4cf0cd",
-    "hrsz": "2060/3",
-    "areaInterior": "84 m²",
-    "areaTerrace": "18 m²",
-    "areaInteriorNum": 84,
-    "areaTerraceNum": 18,
+    "areaInteriorNum": 32.47,
+    "areaTerraceNum": 44.72,
+    "areaGardenNum": null,
+    "areaInterior": "32,47 m²",
+    "areaTerrace": "44,72 m²",
+    "areaGarden": null,
+    "price": 57900000.0,
+    "priceFormatted": "57 900 000 Ft",
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/E302.webp",
-    "priceFormatted": "79 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Konyha",
+        "area": "1,80 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "16,33 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "9,61 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "4,81 m²"
+      }
+    ],
+    "areaTotal": 32.47,
+    "storage": false
   },
   {
-    "id": "K 101",
-    "name": "K épület 101",
-    "building": "K",
+    "id": "NY 101",
+    "name": "Ny épület 101",
+    "building": "NY",
     "floor": 1,
-    "rooms": 3,
-    "area": 68,
-    "price": 62000000,
+    "hrsz": "2060/2",
     "status": "available",
-    "maskColor": "#14ecec",
-    "hrsz": "2060/5",
-    "areaInterior": "68 m²",
-    "areaTerrace": "25 m²",
-    "areaInteriorNum": 68,
-    "areaTerraceNum": 25,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K101.webp",
-    "priceFormatted": "62 000 000 Ft"
+    "maskColor": "#ec1414",
+    "areaInteriorNum": 72.86,
+    "areaTerraceNum": 24.76,
+    "areaGardenNum": 84.0,
+    "areaInterior": "72,86 m²",
+    "areaTerrace": "24,76 m²",
+    "areaGarden": "84 m²",
+    "price": 94900000.0,
+    "priceFormatted": "94 900 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY101.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "4,94 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "5,37 m²"
+      },
+      {
+        "name": "WC",
+        "area": "1,62 m²"
+      },
+      {
+        "name": "Konyha",
+        "area": "5,48 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "20,03 m²"
+      },
+      {
+        "name": "Szoba 1",
+        "area": "12,29 m²"
+      },
+      {
+        "name": "Szoba 2",
+        "area": "12,01 m²"
+      },
+      {
+        "name": "Szoba 3",
+        "area": "9,61 m²"
+      }
+    ],
+    "areaTotal": 72.86,
+    "storage": false
   },
   {
-    "id": "K 102",
-    "name": "K épület 102",
-    "building": "K",
+    "id": "NY 102",
+    "name": "Ny épület 102",
+    "building": "NY",
     "floor": 1,
-    "rooms": 3,
-    "area": 68,
-    "price": 62000000,
+    "hrsz": "2060/2",
     "status": "available",
-    "maskColor": "#14c8b4",
-    "hrsz": "2060/5",
-    "areaInterior": "68 m²",
-    "areaTerrace": "25 m²",
-    "areaInteriorNum": 68,
-    "areaTerraceNum": 25,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K102.webp",
-    "priceFormatted": "62 000 000 Ft"
+    "maskColor": "#f06f4c",
+    "areaInteriorNum": 51.66,
+    "areaTerraceNum": 26.74,
+    "areaGardenNum": 67.0,
+    "areaInterior": "51,66 m²",
+    "areaTerrace": "26,74 m²",
+    "areaGarden": "67 m²",
+    "price": 79900000.0,
+    "priceFormatted": "79 900 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY102.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "4,99 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "12,56 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "18,26 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "12,04 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "3,49 m²"
+      }
+    ],
+    "areaTotal": 51.66,
+    "storage": false
   },
   {
-    "id": "K 103",
-    "name": "K épület 103",
-    "building": "K",
+    "id": "NY 103",
+    "name": "Ny épület 103",
+    "building": "NY",
     "floor": 1,
-    "rooms": 3,
-    "area": 68,
-    "price": 62000000,
+    "hrsz": "2060/2",
     "status": "available",
-    "maskColor": "#148fec",
-    "hrsz": "2060/5",
-    "areaInterior": "68 m²",
-    "areaTerrace": "25 m²",
-    "areaInteriorNum": 68,
-    "areaTerraceNum": 25,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K103.webp",
-    "priceFormatted": "62 000 000 Ft"
+    "maskColor": "#ec7014",
+    "areaInteriorNum": 63.18,
+    "areaTerraceNum": 21.18,
+    "areaGardenNum": 141.0,
+    "areaInterior": "63,18 m²",
+    "areaTerrace": "21,18 m²",
+    "areaGarden": "141 m²",
+    "price": 88900000.0,
+    "priceFormatted": "88 900 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY103.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "5,17 m²"
+      },
+      {
+        "name": "WC",
+        "area": "1,75 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "3,64 m²"
+      },
+      {
+        "name": "Szoba 1",
+        "area": "14,82 m²"
+      },
+      {
+        "name": "Szoba 2",
+        "area": "9,54 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "14,23 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "10,44 m²"
+      }
+    ],
+    "areaTotal": 63.18,
+    "storage": false
   },
   {
-    "id": "K 201",
-    "name": "K épület 201",
-    "building": "K",
+    "id": "NY 201",
+    "name": "Ny épület 201",
+    "building": "NY",
     "floor": 2,
-    "rooms": 3,
-    "area": 71,
-    "price": 68000000,
+    "hrsz": "2060/2",
     "status": "available",
-    "maskColor": "#4c87f0",
-    "hrsz": "2060/5",
-    "areaInterior": "71 m²",
-    "areaTerrace": "14 m²",
-    "areaInteriorNum": 71,
-    "areaTerraceNum": 14,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K201.webp",
-    "priceFormatted": "68 000 000 Ft"
+    "maskColor": "#f0b64c",
+    "areaInteriorNum": 52.28,
+    "areaTerraceNum": 17.82,
+    "areaGardenNum": null,
+    "areaInterior": "52,28 m²",
+    "areaTerrace": "17,82 m²",
+    "areaGarden": null,
+    "price": 67900000.0,
+    "priceFormatted": "67 900 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY201.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "4,35 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "4,60 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "12,02 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "20,26 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "11,14 m²"
+      }
+    ],
+    "areaTotal": 52.28,
+    "storage": true
   },
   {
-    "id": "K 202",
-    "name": "K épület 202",
-    "building": "K",
+    "id": "NY 202",
+    "name": "Ny épület 202",
+    "building": "NY",
     "floor": 2,
-    "rooms": 3,
-    "area": 71,
-    "price": 68000000,
+    "hrsz": "2060/2",
     "status": "available",
-    "maskColor": "#1431ec",
-    "hrsz": "2060/5",
-    "areaInterior": "71 m²",
-    "areaTerrace": "14 m²",
-    "areaInteriorNum": 71,
-    "areaTerraceNum": 14,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K202.webp",
-    "priceFormatted": "68 000 000 Ft"
+    "maskColor": "#eccd14",
+    "areaInteriorNum": 85.53,
+    "areaTerraceNum": 34.73,
+    "areaGardenNum": null,
+    "areaInterior": "85,53 m²",
+    "areaTerrace": "34,73 m²",
+    "areaGarden": null,
+    "price": 115000000.0,
+    "priceFormatted": "115 000 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY202.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "5,57 m²"
+      },
+      {
+        "name": "Szoba 1",
+        "area": "11,07 m²"
+      },
+      {
+        "name": "Szoba 2",
+        "area": "11,07 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "17,16 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "18,91 m²"
+      },
+      {
+        "name": "Fürdő 1",
+        "area": "4,54 m²"
+      },
+      {
+        "name": "Szoba 3",
+        "area": "12,33 m²"
+      },
+      {
+        "name": "Fürdő 2",
+        "area": "3,99 m²"
+      },
+      {
+        "name": "Tároló",
+        "area": "2,63 m²"
+      }
+    ],
+    "areaTotal": 85.53,
+    "storage": false
   },
   {
-    "id": "K 301",
-    "name": "K épület 301",
-    "building": "K",
+    "id": "NY 301",
+    "name": "Ny épület 301",
+    "building": "NY",
     "floor": 3,
-    "rooms": 4,
-    "area": 84,
-    "price": 79000000,
+    "hrsz": "2060/2",
     "status": "available",
-    "maskColor": "#594cf0",
-    "hrsz": "2060/5",
-    "areaInterior": "84 m²",
-    "areaTerrace": "18 m²",
-    "areaInteriorNum": 84,
-    "areaTerraceNum": 18,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K301.webp",
-    "priceFormatted": "79 000 000 Ft"
+    "maskColor": "#e5f04c",
+    "areaInteriorNum": 32.31,
+    "areaTerraceNum": 18.12,
+    "areaGardenNum": null,
+    "areaInterior": "32,31 m²",
+    "areaTerrace": "18,12 m²",
+    "areaGarden": null,
+    "price": 59900000.0,
+    "priceFormatted": "59 900 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY301.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Konyha",
+        "area": "1,80 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "16,32 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "9,46 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "4,81 m²"
+      }
+    ],
+    "areaTotal": 32.31,
+    "storage": false
   },
   {
-    "id": "K 302",
-    "name": "K épület 302",
-    "building": "K",
+    "id": "NY 302",
+    "name": "Ny épület 302",
+    "building": "NY",
     "floor": 3,
-    "rooms": 4,
-    "area": 84,
-    "price": 79000000,
+    "hrsz": "2060/2",
     "status": "available",
-    "maskColor": "#5014ec",
-    "hrsz": "2060/5",
-    "areaInterior": "84 m²",
-    "areaTerrace": "18 m²",
-    "areaInteriorNum": 84,
-    "areaTerraceNum": 18,
-    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K302.webp",
-    "priceFormatted": "79 000 000 Ft"
+    "maskColor": "#aeec14",
+    "areaInteriorNum": 32.47,
+    "areaTerraceNum": 44.72,
+    "areaGardenNum": null,
+    "areaInterior": "32,47 m²",
+    "areaTerrace": "44,72 m²",
+    "areaGarden": null,
+    "price": 62500000.0,
+    "priceFormatted": "62 500 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/NY302.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Konyha",
+        "area": "1,80 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "16,33 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "9,61 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "4,81 m²"
+      }
+    ],
+    "areaTotal": 32.47,
+    "storage": false
   },
   {
     "id": "D 101",
     "name": "D épület 101",
     "building": "D",
     "floor": 1,
-    "rooms": 3,
-    "area": 68,
-    "price": 62000000,
+    "hrsz": "2060/4",
     "status": "available",
     "maskColor": "#9e4cf0",
-    "hrsz": "2060/4",
-    "areaInterior": "68 m²",
-    "areaTerrace": "25 m²",
-    "areaInteriorNum": 68,
-    "areaTerraceNum": 25,
+    "areaInteriorNum": 72.86,
+    "areaTerraceNum": 24.76,
+    "areaGardenNum": 84.0,
+    "areaInterior": "72,86 m²",
+    "areaTerrace": "24,76 m²",
+    "areaGarden": "84 m²",
+    "price": 89900000.0,
+    "priceFormatted": "89 900 000 Ft",
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/D101.webp",
-    "priceFormatted": "62 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "4,94 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "5,37 m²"
+      },
+      {
+        "name": "WC",
+        "area": "1,62 m²"
+      },
+      {
+        "name": "Konyha",
+        "area": "5,48 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "20,03 m²"
+      },
+      {
+        "name": "Szoba 1",
+        "area": "12,29 m²"
+      },
+      {
+        "name": "Szoba 2",
+        "area": "12,01 m²"
+      },
+      {
+        "name": "Szoba 3",
+        "area": "9,61 m²"
+      }
+    ],
+    "areaTotal": 72.86,
+    "storage": false
   },
   {
     "id": "D 102",
     "name": "D épület 102",
     "building": "D",
     "floor": 1,
-    "rooms": 3,
-    "area": 68,
-    "price": 62000000,
+    "hrsz": "2060/4",
     "status": "available",
     "maskColor": "#ae14ec",
-    "hrsz": "2060/4",
-    "areaInterior": "68 m²",
-    "areaTerrace": "25 m²",
-    "areaInteriorNum": 68,
-    "areaTerraceNum": 25,
+    "areaInteriorNum": 51.66,
+    "areaTerraceNum": 26.74,
+    "areaGardenNum": 67.0,
+    "areaInterior": "51,66 m²",
+    "areaTerrace": "26,74 m²",
+    "areaGarden": "67 m²",
+    "price": 79900000.0,
+    "priceFormatted": "79 900 000 Ft",
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/D102.webp",
-    "priceFormatted": "62 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "4,99 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "12,56 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "18,26 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "12,04 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "3,49 m²"
+      }
+    ],
+    "areaTotal": 51.66,
+    "storage": false
   },
   {
     "id": "D 103",
     "name": "D épület 103",
     "building": "D",
     "floor": 1,
-    "rooms": 3,
-    "area": 68,
-    "price": 62000000,
+    "hrsz": "2060/4",
     "status": "available",
     "maskColor": "#e54cf0",
-    "hrsz": "2060/4",
-    "areaInterior": "68 m²",
-    "areaTerrace": "25 m²",
-    "areaInteriorNum": 68,
-    "areaTerraceNum": 25,
+    "areaInteriorNum": 63.18,
+    "areaTerraceNum": 21.18,
+    "areaGardenNum": 141.0,
+    "areaInterior": "63,18 m²",
+    "areaTerrace": "21,18 m²",
+    "areaGarden": "141 m²",
+    "price": 83900000.0,
+    "priceFormatted": "83 900 000 Ft",
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/D103.webp",
-    "priceFormatted": "62 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "5,17 m²"
+      },
+      {
+        "name": "WC",
+        "area": "1,75 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "3,64 m²"
+      },
+      {
+        "name": "Szoba 1",
+        "area": "14,82 m²"
+      },
+      {
+        "name": "Szoba 2",
+        "area": "9,54 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "14,23 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "10,44 m²"
+      }
+    ],
+    "areaTotal": 63.18,
+    "storage": false
   },
   {
     "id": "D 201",
     "name": "D épület 201",
     "building": "D",
     "floor": 2,
-    "rooms": 3,
-    "area": 71,
-    "price": 68000000,
+    "hrsz": "2060/4",
     "status": "available",
     "maskColor": "#ec14cd",
-    "hrsz": "2060/4",
-    "areaInterior": "71 m²",
-    "areaTerrace": "14 m²",
-    "areaInteriorNum": 71,
-    "areaTerraceNum": 14,
+    "areaInteriorNum": 51.03,
+    "areaTerraceNum": 17.82,
+    "areaGardenNum": null,
+    "areaInterior": "51,03 m²",
+    "areaTerrace": "17,82 m²",
+    "areaGarden": null,
+    "price": 64900000.0,
+    "priceFormatted": "64 900 000 Ft",
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/D201.webp",
-    "priceFormatted": "68 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "2,90 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "8,53 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "20,30 m²"
+      },
+      {
+        "name": "Tároló (Szoba)",
+        "area": "12,34 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "5,70 m²"
+      }
+    ],
+    "areaTotal": 51.03,
+    "storage": false
   },
   {
     "id": "D 202",
     "name": "D épület 202",
     "building": "D",
     "floor": 2,
-    "rooms": 3,
-    "area": 71,
-    "price": 68000000,
+    "hrsz": "2060/4",
     "status": "available",
     "maskColor": "#f04cb6",
-    "hrsz": "2060/4",
-    "areaInterior": "71 m²",
-    "areaTerrace": "14 m²",
-    "areaInteriorNum": 71,
-    "areaTerraceNum": 14,
+    "areaInteriorNum": 54.18,
+    "areaTerraceNum": 16.57,
+    "areaGardenNum": null,
+    "areaInterior": "54,18 m²",
+    "areaTerrace": "16,57 m²",
+    "areaGarden": null,
+    "price": 67900000.0,
+    "priceFormatted": "67 900 000 Ft",
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/D202.webp",
-    "priceFormatted": "68 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "6,22 m²"
+      },
+      {
+        "name": "Tároló (Szoba)",
+        "area": "7,91 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "4,42 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "10,07 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "6,42 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "18,29 m²"
+      }
+    ],
+    "areaTotal": 54.18,
+    "storage": true
+  },
+  {
+    "id": "D 203",
+    "name": "D épület 203",
+    "building": "D",
+    "floor": 2,
+    "hrsz": "2060/4",
+    "status": "available",
+    "maskColor": "#80d411",
+    "areaInteriorNum": 36.41,
+    "areaTerraceNum": 17.86,
+    "areaGardenNum": null,
+    "areaInterior": "36,41 m²",
+    "areaTerrace": "17,86 m²",
+    "areaGarden": null,
+    "price": 51900000.0,
+    "priceFormatted": "51 900 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/D203.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "3,75 m²"
+      },
+      {
+        "name": "Konyha",
+        "area": "2,10 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "3,49 m²"
+      },
+      {
+        "name": "Tároló (Szoba)",
+        "area": "8,34 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "18,47 m²"
+      }
+    ],
+    "areaTotal": 36.41,
+    "storage": false
   },
   {
     "id": "D 301",
     "name": "D épület 301",
     "building": "D",
     "floor": 3,
-    "rooms": 4,
-    "area": 84,
-    "price": 79000000,
+    "hrsz": "2060/4",
     "status": "available",
     "maskColor": "#ec1470",
-    "hrsz": "2060/4",
-    "areaInterior": "84 m²",
-    "areaTerrace": "18 m²",
-    "areaInteriorNum": 84,
-    "areaTerraceNum": 18,
+    "areaInteriorNum": 32.31,
+    "areaTerraceNum": 18.12,
+    "areaGardenNum": null,
+    "areaInterior": "32,31 m²",
+    "areaTerrace": "18,12 m²",
+    "areaGarden": null,
+    "price": 58900000.0,
+    "priceFormatted": "58 900 000 Ft",
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/D301.webp",
-    "priceFormatted": "79 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Konyha",
+        "area": "1,80 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "16,32 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "9,46 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "4,81 m²"
+      }
+    ],
+    "areaTotal": 32.31,
+    "storage": false
   },
   {
     "id": "D 302",
     "name": "D épület 302",
     "building": "D",
     "floor": 3,
-    "rooms": 4,
-    "area": 84,
-    "price": 79000000,
+    "hrsz": "2060/4",
     "status": "available",
     "maskColor": "#f04c6f",
-    "hrsz": "2060/4",
-    "areaInterior": "84 m²",
-    "areaTerrace": "18 m²",
-    "areaInteriorNum": 84,
-    "areaTerraceNum": 18,
+    "areaInteriorNum": 32.47,
+    "areaTerraceNum": 44.72,
+    "areaGardenNum": null,
+    "areaInterior": "32,47 m²",
+    "areaTerrace": "44,72 m²",
+    "areaGarden": null,
+    "price": 61500000.0,
+    "priceFormatted": "61 500 000 Ft",
     "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/D302.webp",
-    "priceFormatted": "79 000 000 Ft"
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Konyha",
+        "area": "1,80 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "16,33 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "9,61 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "4,81 m²"
+      }
+    ],
+    "areaTotal": 32.47,
+    "storage": false
+  },
+  {
+    "id": "K 101",
+    "name": "K épület 101",
+    "building": "K",
+    "floor": 1,
+    "hrsz": "2060/5",
+    "status": "available",
+    "maskColor": "#14ecec",
+    "areaInteriorNum": 72.86,
+    "areaTerraceNum": 24.76,
+    "areaGardenNum": 84.0,
+    "areaInterior": "72,86 m²",
+    "areaTerrace": "24,76 m²",
+    "areaGarden": "84 m²",
+    "price": 93764000.0,
+    "priceFormatted": "93 764 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K101.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "4,94 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "5,37 m²"
+      },
+      {
+        "name": "WC",
+        "area": "1,62 m²"
+      },
+      {
+        "name": "Konyha",
+        "area": "5,48 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "20,03 m²"
+      },
+      {
+        "name": "Szoba 1",
+        "area": "12,29 m²"
+      },
+      {
+        "name": "Szoba 2",
+        "area": "12,01 m²"
+      },
+      {
+        "name": "Szoba 3",
+        "area": "9,61 m²"
+      }
+    ],
+    "areaTotal": 72.86,
+    "storage": false
+  },
+  {
+    "id": "K 102",
+    "name": "K épület 102",
+    "building": "K",
+    "floor": 1,
+    "hrsz": "2060/5",
+    "status": "available",
+    "maskColor": "#14c8b4",
+    "areaInteriorNum": 51.66,
+    "areaTerraceNum": 26.74,
+    "areaGardenNum": 67.0,
+    "areaInterior": "51,66 m²",
+    "areaTerrace": "26,74 m²",
+    "areaGarden": "67 m²",
+    "price": 78036000.0,
+    "priceFormatted": "78 036 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K102.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "4,99 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "12,56 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "18,26 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "12,04 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "3,49 m²"
+      }
+    ],
+    "areaTotal": 51.66,
+    "storage": false
+  },
+  {
+    "id": "K 103",
+    "name": "K épület 103",
+    "building": "K",
+    "floor": 1,
+    "hrsz": "2060/5",
+    "status": "available",
+    "maskColor": "#148fec",
+    "areaInteriorNum": 63.18,
+    "areaTerraceNum": 21.18,
+    "areaGardenNum": 141.0,
+    "areaInterior": "63,18 m²",
+    "areaTerrace": "21,18 m²",
+    "areaGarden": "141 m²",
+    "price": 84900000.0,
+    "priceFormatted": "84 900 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K103.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "5,17 m²"
+      },
+      {
+        "name": "WC",
+        "area": "1,75 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "3,64 m²"
+      },
+      {
+        "name": "Szoba 1",
+        "area": "14,82 m²"
+      },
+      {
+        "name": "Szoba 2",
+        "area": "9,54 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "14,23 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "10,44 m²"
+      }
+    ],
+    "areaTotal": 63.18,
+    "storage": false
+  },
+  {
+    "id": "K 201",
+    "name": "K épület 201",
+    "building": "K",
+    "floor": 2,
+    "hrsz": "2060/5",
+    "status": "available",
+    "maskColor": "#4c87f0",
+    "areaInteriorNum": 52.28,
+    "areaTerraceNum": 17.82,
+    "areaGardenNum": null,
+    "areaInterior": "52,28 m²",
+    "areaTerrace": "17,82 m²",
+    "areaGarden": null,
+    "price": 67900000.0,
+    "priceFormatted": "67 900 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K201.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "4,35 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "4,60 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "12,02 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "20,26 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "11,14 m²"
+      }
+    ],
+    "areaTotal": 52.28,
+    "storage": true
+  },
+  {
+    "id": "K 202",
+    "name": "K épület 202",
+    "building": "K",
+    "floor": 2,
+    "hrsz": "2060/5",
+    "status": "available",
+    "maskColor": "#1431ec",
+    "areaInteriorNum": 85.53,
+    "areaTerraceNum": 34.73,
+    "areaGardenNum": null,
+    "areaInterior": "85,53 m²",
+    "areaTerrace": "34,73 m²",
+    "areaGarden": null,
+    "price": 113184500.0,
+    "priceFormatted": "113 184 500 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K202.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Előszoba",
+        "area": "5,57 m²"
+      },
+      {
+        "name": "Szoba 1",
+        "area": "11,07 m²"
+      },
+      {
+        "name": "Szoba 2",
+        "area": "11,07 m²"
+      },
+      {
+        "name": "Konyha, étkező",
+        "area": "17,16 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "18,91 m²"
+      },
+      {
+        "name": "Fürdő 1",
+        "area": "4,54 m²"
+      },
+      {
+        "name": "Szoba 3",
+        "area": "12,33 m²"
+      },
+      {
+        "name": "Fürdő 2",
+        "area": "3,99 m²"
+      },
+      {
+        "name": "Tároló",
+        "area": "2,63 m²"
+      }
+    ],
+    "areaTotal": 85.53,
+    "storage": false
+  },
+  {
+    "id": "K 301",
+    "name": "K épület 301",
+    "building": "K",
+    "floor": 3,
+    "hrsz": "2060/5",
+    "status": "available",
+    "maskColor": "#594cf0",
+    "areaInteriorNum": 32.31,
+    "areaTerraceNum": 18.12,
+    "areaGardenNum": null,
+    "areaInterior": "32,31 m²",
+    "areaTerrace": "18,12 m²",
+    "areaGarden": null,
+    "price": 57900000.0,
+    "priceFormatted": "57 900 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K301.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Konyha",
+        "area": "1,80 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "16,32 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "9,46 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "4,81 m²"
+      }
+    ],
+    "areaTotal": 32.31,
+    "storage": false
+  },
+  {
+    "id": "K 302",
+    "name": "K épület 302",
+    "building": "K",
+    "floor": 3,
+    "hrsz": "2060/5",
+    "status": "available",
+    "maskColor": "#5014ec",
+    "areaInteriorNum": 32.47,
+    "areaTerraceNum": 44.72,
+    "areaGardenNum": null,
+    "areaInterior": "32,47 m²",
+    "areaTerrace": "44,72 m²",
+    "areaGarden": null,
+    "price": 59900000.0,
+    "priceFormatted": "59 900 000 Ft",
+    "floorplan": "https://raw.githubusercontent.com/UnbuiltMarket/csillag-residence-picker/main/floorplans/K302.webp",
+    "layoutLabel": null,
+    "roomList": [
+      {
+        "name": "Konyha",
+        "area": "1,80 m²"
+      },
+      {
+        "name": "Nappali",
+        "area": "16,33 m²"
+      },
+      {
+        "name": "Szoba",
+        "area": "9,61 m²"
+      },
+      {
+        "name": "Fürdő",
+        "area": "4,81 m²"
+      }
+    ],
+    "areaTotal": 32.47,
+    "storage": false
   }
 ]
