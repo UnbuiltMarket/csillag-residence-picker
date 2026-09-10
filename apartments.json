@@ -69,7 +69,9 @@
     ],
     "areaTotal": 72.86,
     "storage": false,
-    "parking": "P4"
+    "parking": "P4",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "É 102",
@@ -123,7 +125,9 @@
     ],
     "areaTotal": 51.66,
     "storage": false,
-    "parking": "P2"
+    "parking": "P2",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "É 103",
@@ -189,7 +193,9 @@
     ],
     "areaTotal": 63.18,
     "storage": false,
-    "parking": "P3"
+    "parking": "P3",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "É 201",
@@ -243,7 +249,9 @@
     ],
     "areaTotal": 51.03,
     "storage": false,
-    "parking": "P5"
+    "parking": "P5",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "É 202",
@@ -303,7 +311,9 @@
     ],
     "areaTotal": 54.18,
     "storage": false,
-    "parking": "P1"
+    "parking": "P1",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "É 203",
@@ -357,7 +367,9 @@
     ],
     "areaTotal": 36.41,
     "storage": false,
-    "parking": "P6"
+    "parking": "P6",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "É 301",
@@ -405,7 +417,9 @@
     ],
     "areaTotal": 32.31,
     "storage": false,
-    "parking": "P7"
+    "parking": "P7",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "É 302",
@@ -453,7 +467,9 @@
     ],
     "areaTotal": 32.47,
     "storage": false,
-    "parking": "P8"
+    "parking": "P8",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "NY 101",
@@ -525,7 +541,9 @@
     ],
     "areaTotal": 72.86,
     "storage": false,
-    "parking": "P7"
+    "parking": "P7",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "NY 102",
@@ -579,7 +597,9 @@
     ],
     "areaTotal": 51.66,
     "storage": false,
-    "parking": "P5"
+    "parking": "P5",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "NY 103",
@@ -645,7 +665,9 @@
     ],
     "areaTotal": 63.18,
     "storage": false,
-    "parking": "P6"
+    "parking": "P6",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "NY 201",
@@ -699,7 +721,9 @@
     ],
     "areaTotal": 52.28,
     "storage": true,
-    "parking": "P1"
+    "parking": "P1",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "NY 202",
@@ -777,7 +801,9 @@
     ],
     "areaTotal": 85.53,
     "storage": false,
-    "parking": "P2"
+    "parking": "P2",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "NY 301",
@@ -825,7 +851,9 @@
     ],
     "areaTotal": 32.31,
     "storage": false,
-    "parking": "P3"
+    "parking": "P3",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "NY 302",
@@ -873,7 +901,9 @@
     ],
     "areaTotal": 32.47,
     "storage": false,
-    "parking": "P4"
+    "parking": "P4",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "D 101",
@@ -945,7 +975,9 @@
     ],
     "areaTotal": 72.86,
     "storage": false,
-    "parking": "P7"
+    "parking": "P7",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "D 102",
@@ -999,7 +1031,9 @@
     ],
     "areaTotal": 51.66,
     "storage": false,
-    "parking": "P5"
+    "parking": "P5",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "D 103",
@@ -1065,7 +1099,9 @@
     ],
     "areaTotal": 63.18,
     "storage": false,
-    "parking": "P6"
+    "parking": "P6",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "D 201",
@@ -1119,7 +1155,9 @@
     ],
     "areaTotal": 51.03,
     "storage": false,
-    "parking": "P1"
+    "parking": "P1",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "D 202",
@@ -1179,7 +1217,9 @@
     ],
     "areaTotal": 54.18,
     "storage": true,
-    "parking": "P2"
+    "parking": "P2",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "D 203",
@@ -1233,7 +1273,9 @@
     ],
     "areaTotal": 36.41,
     "storage": false,
-    "parking": "P3"
+    "parking": "P3",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "D 301",
@@ -1281,7 +1323,9 @@
     ],
     "areaTotal": 32.31,
     "storage": false,
-    "parking": "P4"
+    "parking": "P4",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "D 302",
@@ -1329,7 +1373,9 @@
     ],
     "areaTotal": 32.47,
     "storage": false,
-    "parking": null
+    "parking": null,
+    "parkingPrice": null,
+    "parkingPriceFormatted": null
   },
   {
     "id": "K 101",
@@ -1401,7 +1447,9 @@
     ],
     "areaTotal": 72.86,
     "storage": false,
-    "parking": "P7"
+    "parking": "P7",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "K 102",
@@ -1455,7 +1503,9 @@
     ],
     "areaTotal": 51.66,
     "storage": false,
-    "parking": "P5"
+    "parking": "P5",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "K 103",
@@ -1521,7 +1571,9 @@
     ],
     "areaTotal": 63.18,
     "storage": false,
-    "parking": "P6"
+    "parking": "P6",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "K 201",
@@ -1575,7 +1627,9 @@
     ],
     "areaTotal": 52.28,
     "storage": true,
-    "parking": "P1"
+    "parking": "P1",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "K 202",
@@ -1653,7 +1707,9 @@
     ],
     "areaTotal": 85.53,
     "storage": false,
-    "parking": "P2"
+    "parking": "P2",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "K 301",
@@ -1701,7 +1757,9 @@
     ],
     "areaTotal": 32.31,
     "storage": false,
-    "parking": "P3"
+    "parking": "P3",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   },
   {
     "id": "K 302",
@@ -1749,6 +1807,8 @@
     ],
     "areaTotal": 32.47,
     "storage": false,
-    "parking": "P4"
+    "parking": "P4",
+    "parkingPrice": 3500000,
+    "parkingPriceFormatted": "3 500 000 Ft"
   }
 ]
