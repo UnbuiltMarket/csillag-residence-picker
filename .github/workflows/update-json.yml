@@ -1,0 +1,42 @@
+name: Update website JSON
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate apartments.json from Airtable
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: ${{ vars.AIRTABLE_BASE_ID }}
+          AIRTABLE_APARTMENTS_TABLE_ID: ${{ vars.AIRTABLE_APARTMENTS_TABLE_ID }}
+          AIRTABLE_ROOMS_TABLE_ID: ${{ vars.AIRTABLE_ROOMS_TABLE_ID }}
+        run: node scripts/generate-json.mjs
+
+      - name: Commit JSON if it changed
+        run: |
+          if git diff --quiet apartments.json; then
+            echo "No JSON changes detected."
+            exit 0
+          fi
+
+          git config user.name "airtable-json-bot"
+          git config user.email "airtable-json-bot@users.noreply.github.com"
+
+          git add apartments.json
+          git commit -m "Update apartments.json from Airtable"
+          git push
