@@ -79,7 +79,7 @@
     "building": "D",
     "floor": 1,
     "hrsz": "2060/4",
-    "status": "available",
+    "status": "unavailable",
     "maskColor": "#ae14ec",
     "areaInteriorNum": 51.66,
     "areaTerraceNum": 26.74,
